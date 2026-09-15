@@ -1,0 +1,29 @@
+================================================================================
+          TRADUÇÃO PARA PORTUGUÊS DO BRASIL - HUNT DOWN THE FREEMAN
+                         Tradução criada por: juniodevs
+================================================================================
+
+SOBRE A TRADUÇÃO:
+Esta tradução foi feita para trazer uma experiência 100% em português brasileiro
+para Hunt Down The Freeman, BETA
+
+O QUE ESTÁ TRADUZIDO:
+- 100% dos Menus
+- 100% das Armas, Munições e Itens do Inventário.
+- Todas as Dicas de Comandos e Mecânicas (Parkour, Rastejar, Mira, Vida).
+- Todos os Títulos dos Capítulos da campanha.
+- 100% dos Diálogos In-Game (Treinamento com o Sargento Garrison, Black Mesa,
+  Hospital, Albuquerque, Esgotos, Metrô, Fábrica, Alasca, Cidade 17, Ravenholm,
+  Cavernas e o Confronto Final).
+- 100% das 25 Cutscenes em Vídeo (cenas Bink renderizadas).
+- Legendas de efeitos sonoros e falas táticas de combate de NPCs.
+
+COMO INSTALAR:
+1. Abra a pasta onde o seu jogo está instalado:
+   Exemplo: SteamLibrary\steamapps\common\Hunt Down The Freeman\
+2. Copie a pasta "HDtF" deste pacote e cole diretamente dentro da pasta do jogo.
+3. Se o Windows perguntar se deseja substituir os arquivos, confirme ("Substituir os arquivos no destino").
+4. Pronto! Inicie o jogo normalmente.
+
+CRÉDITOS:
+Tradução, adaptação e compilação das legendas por: juniodevs
